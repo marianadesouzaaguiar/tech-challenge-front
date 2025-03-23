@@ -55,15 +55,11 @@ Docker (para execução opcional com container)
 git clone https://github.com/marianadesouzaaguiar/tech-challenge-front
 cd seu-repositorio
 2️⃣ Instale as dependências:
-
 npm install
-# ou
-yarn install
-3️⃣ Inicie o servidor de desenvolvimento:
 
+3️⃣ Inicie o servidor de desenvolvimento:
 npm start
-# ou
-yarn start
+
 4️⃣ O projeto estará disponível em:
 
 http://localhost:5173
